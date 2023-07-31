@@ -1,5 +1,12 @@
 # Hello and welcome
-### please checkout my portfolio *[here](https://www.portfolio.com")
+### please checkout my portfolio *[here]*(https://www.portfolio.com")
 ~~~~~~
-    console.log("Hello world!")
+print("I love python")
 ~~~~~~
+~~~~
+#include <stdio.h>
+int main(void) {
+    printf("C is fun");
+    return 0;
+}
+~~~~

@@ -1,3 +1,5 @@
+# JavaScript is awsome
+
 ~~~~~~
-    console.log("Hello world!")
+console.log("Hello world!")
 ~~~~~~
